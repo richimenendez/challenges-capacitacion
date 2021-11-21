@@ -1,5 +1,9 @@
+// Entrada =======================
 let digitos = [9,9,9,9,9]
+// ===============================
+
 console.log(digitos);
+
 let residuo = 1;
 let result = [];
 
@@ -18,4 +22,5 @@ if (residuo==1){
 }
 
 result = result.reverse()
+
 console.log(result);

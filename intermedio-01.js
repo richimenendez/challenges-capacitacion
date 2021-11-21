@@ -9,8 +9,10 @@ keyboard.set("7",["p","q","r","s"]);
 keyboard.set("8",["t","u","v"]);
 keyboard.set("9",["w","x","y","z"]);
 
-const input = "9999";
 
+// Entrada =======================
+const input = "9999";
+// ===============================
 
 function getSons(letter, indx) {
     let letters =  keyboard.get(letter);

@@ -1,5 +1,5 @@
 // Entrada =======================
-let digitos = [9,9,9,9,9]
+let digitos = [9,9,3,2,1]
 // ===============================
 
 console.log(digitos);
